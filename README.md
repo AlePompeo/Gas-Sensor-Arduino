@@ -1,5 +1,9 @@
 # 🔥 Arduino Safety Monitor — Gas, Fiamme e Temperatura
 
+> **Arduino environmental safety monitor**: gas (MQ sensor), flame (IR) and temperature (NTC thermistor, Steinhart-Hart) detection with graded buzzer alerts, adaptive 16x2 LCD and Bluetooth data streaming. Italian documentation.
+
+![Arduino](https://img.shields.io/badge/Arduino-C%2B%2B-00979D?logo=arduino&logoColor=white) ![Sensors](https://img.shields.io/badge/Sensors-gas%20%C2%B7%20flame%20%C2%B7%20temperature-d32f2f) ![Bluetooth](https://img.shields.io/badge/Bluetooth-serial-0082FC?logo=bluetooth&logoColor=white)
+
 Sistema di monitoraggio ambientale basato su **Arduino** in grado di rilevare perdite di gas, presenza di fiamme e temperature anomale in tempo reale, con avvisi sonori graduali, display LCD adattivo e trasmissione dati via Bluetooth.
 
 ---
@@ -105,3 +109,7 @@ La luminosità del backlight è calcolata tramite una **parabola inversa** sul v
 ## 📄 Licenza
 
 Tutti i diritti riservati © — il contenuto di questo repository non può essere copiato, distribuito o utilizzato senza esplicito permesso dell'autore.
+
+---
+
+*Keywords: Arduino, gas sensor, MQ sensor, flame sensor, NTC thermistor, Steinhart-Hart, LCD 16x2, Bluetooth, safety monitor, embedded, IoT.*
